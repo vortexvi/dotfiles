@@ -16,7 +16,7 @@ My Arch Linux Dotfiles
 - Application Launcher : [Rofi](https://github.com/davatorium/rofi)
 - Terminal : [Alcritty](https://github.com/alacritty/alacritty)
 - Compositor : [Picom](https://github.com/yshui/picom)
-= Shell : [ZSH](https://www.zsh.org/) With [OhMyZSH](https://github.com/ohmyzsh/ohmyzsh)
+- Shell : [ZSH](https://www.zsh.org/) With [OhMyZSH](https://github.com/ohmyzsh/ohmyzsh)
 
 # Usage 
 
